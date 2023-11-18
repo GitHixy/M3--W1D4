@@ -76,12 +76,13 @@ flex-wrap: wrap;
 .post img {
     margin: 30px;
     flex: 1 1 300px;
+    
 }
 .post {
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
-flex: 1 0 350px;
+flex: 1 1 350px;
 }
 .post-description {
 display: flex;
